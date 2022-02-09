@@ -1,1 +1,2 @@
-config-dev生产文件
+config:
+  info: config-pro生产文件
